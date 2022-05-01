@@ -7,4 +7,6 @@
 
   #### 2. Al acabar la descarga, iniciamos la máquina virtual y creamos una nueva máquina, elegimos nombre. Una vez finalizada arrancamos la máquina.
   
-  #### 3. Confirmamos que está todo bien 
+  #### 3. Confirmamos que está todo bien y nos aparecerá un mensaje diciendo "Welcome de Alpine"
+
+![Captura de pantalla 1](https://user-images.githubusercontent.com/82807688/166137547-d87fdf73-faa4-426e-a495-ebd791dbf84e.png)
